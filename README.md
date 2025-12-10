@@ -19,3 +19,12 @@ forms
 3. Be acquainted with the basics of transaction processing and
 concurrencycontrol.
 4. Familiarity with database storage structures and access techniques
+
+UNIT - I
+
+Database System Applications: A Historical Perspective, File Systems versus
+a DBMS, the Data Model, Levels of Abstraction in a DBMS, Data Independence,
+Structure of a DBMS
+Introduction to Database Design: Database Design and ER Diagrams,
+Entities, Attributes, and Entity Sets, Relationships and Relationship Sets,
+Additional Features of the ER Model, Conceptual Design With the ER Model
